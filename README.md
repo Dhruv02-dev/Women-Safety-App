@@ -12,6 +12,17 @@ The *Women’s Safety App* is an Android app built using *Jetpack Compose*. It h
 - *Defence:* Provides self-defense articles and videos.
 - *Helpline Numbers:* Quick access to important emergency helpline numbers.
 
+
+##  Screenshots
+
+| Feature                 | Preview                                                           |
+|-------------------------|-------------------------------------------------------------------|
+| **SOS Screen**          | <img src="docs/screenshots/home-screen.jpg" width="250"/>         |
+| **Contacts Screen**     | <img src="docs/screenshots/emergency-contacts.jpeg" width="250"/> |
+| **Fake Call Screen**    | <img src="docs/screenshots/fakecall.jpeg" width="250"/>           |
+| **Self Defence Screen** | <img src="docs/screenshots/defence.jpg" width="250"/>             |
+| **Helpline Screen**     | <img src="docs/screenshots/helpline.jpg" width="250"/>            |
+
 ## Tech Stack
 
 - *Android UI:* Jetpack Compose
